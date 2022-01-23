@@ -1,3 +1,0 @@
-Der Code ist sehr sauber und die Paketstruktur ebenfalls. Ihr habt auch Interfaces eingesetzt und habt damit
-eine gewisse Aenderbarkeit erreicht. Ein Knackpunkt an der Paketstruktur ist das Paket logic.hibernate, denn
-die Hibernate-Klassen haben ja mit der Datenbank zu tun und gehoeren somit in das dao-Paket. 
